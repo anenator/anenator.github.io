@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <time.h>
+#include <Windows.h>
+
+
+typedef struct Spikes {
+    int nPosition;
+    int nCheckCounter;
+}Spikes ; 
+
+
+
+int main() {
+printf("╔╦╦╦═╦╗╔═╦═╦══╦═╗\n");
+printf("║║║║╩╣╚╣═╣║║║║║╩╣\n");
+printf("╚══╩═╩═╩═╩═╩╩╩╩═╝\n");
+printf("To Backgammon\n");
+
+return 0;
+}
+    
